@@ -1,6 +1,6 @@
 ---
 title: "언리얼 엔진 게임 성능 최적화: GC(Garbage Collection) 정복하기"
-date: 2025-12-24 11:00:00 +0900
+date: 2025-12-24 00:00:00 +0900
 categories: [Unreal Engine, Optimization]
 tags: [Performance, GC, C++, Blueprint]
 ---
